@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1651417157 source:g:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"game.h"
+
+1650251073 g:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\sdl_utils.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1649607769 source:g:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\sdl_utils.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"SDL_utils.h"
+
+1651415294 g:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\game.h
+	<iostream>
+	<cmath>
+	"Text.h"
+
+1651417195 g:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\character.h
+	<iostream>
+	"SDL_utils.h"
+
+1649386731 source:g:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\character.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<SDL.h>
+	<SDL_image.h>
+	"game.h"
+
+1651416629 source:g:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\enemy.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"game.h"
+
+1651417144 source:g:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\player.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"game.h"
+
+1650251073 g:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\text.h
+	<iostream>
+	<string>
+	<SDL_ttf.h>
+	"character.h"
+
+1649495972 source:g:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\time.cpp
+	<iostream>
+	<string>
+	"game.h"
+
+1649495972 source:g:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\text.cpp
+	<iostream>
+	<string>
+	"game.h"
+
+1653300736 source:d:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\enemy.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"game.h"
+
+1653316040 d:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\game.h
+	<iostream>
+	<cmath>
+	"Menu.h"
+
+1650251073 d:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\text.h
+	<iostream>
+	<string>
+	<SDL_ttf.h>
+	"character.h"
+
+1653299686 d:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\character.h
+	<iostream>
+	"SDL_utils.h"
+
+1652328382 d:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\sdl_utils.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1653301046 source:d:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"game.h"
+
+1653300736 source:d:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\player.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"game.h"
+
+1652458614 source:d:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\sdl_utils.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"SDL_utils.h"
+
+1652265739 source:d:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\text.cpp
+	<iostream>
+	<string>
+	"game.h"
+
+1653299081 d:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\menu.h
+	<iostream>
+	<string>
+	<SDL_ttf.h>
+	"Text.h"
+
+1653316040 source:d:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\menu.cpp
+	<iostream>
+	<string>
+	"game.h"
+
+1653316040 source:d:\hoc hanh met moi\lap trinh nang cao\super smash flash\supersmashflash\select_character.cpp
+	<iostream>
+	<string>
+	"game.h"
+
